@@ -81,7 +81,4 @@ a weak signal on their own.
 - **Raw Data (Before Cleaning)** tab — the original messy export, for before/after comparison
 - **SQL Insights (Window Fns)** tab — the LAG/RANK query outputs, sourced directly from SQL since those aren't easily replicated as plain spreadsheet formulas
 
-## How to Present This in an Interview
-- Walk through one messy-data problem (e.g. the 4 date formats) and how you solved it in SQL — this shows real data-wrangling skill, not just querying clean data.
-- Lead with the odd-hours finding — it's concrete, visual, and has a clear business action attached.
-- Be upfront that the dataset is synthetic-but-realistic due to environment constraints, and that the pipeline is built to drop in the real Kaggle data unchanged. This shows engineering judgment, not just "I ran a notebook."
+
